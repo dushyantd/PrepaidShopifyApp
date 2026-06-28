@@ -2,7 +2,7 @@
 
 client_id = "ac67aabe802fe21fa7499e948e1e3218"
 name = "Friends of Ane Prepaid"
-application_url = "https://shopify.app.local"
+application_url = "https://silver-donkey-209197.hostingersite.com"
 embedded = true
 
 [build]
@@ -29,9 +29,9 @@ scopes = "read_orders,read_own_subscription_contracts,read_purchase_options,writ
 
 [auth]
 redirect_urls = [
-  "https://shopify.app.local/auth/callback",
-  "https://shopify.app.local/auth/shopify/callback",
-  "https://shopify.app.local/api/auth/callback"
+  "https://silver-donkey-209197.hostingersite.com/auth/callback",
+  "https://silver-donkey-209197.hostingersite.com/auth/shopify/callback",
+  "https://silver-donkey-209197.hostingersite.com/api/auth/callback"
 ]
 
 [product.metafields.app.demo_info]
